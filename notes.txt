@@ -1,0 +1,16 @@
+MERN Stack
+
+- Mongodb: Database
+- Express: Backend Framework used
+with in Nodejs
+- React: Frontend Library
+- Nodejs: Backend Environment
+
+/*
+Steps:
+1. Create folder for Backend Project
+2. Create an index.js file for code
+3. Run `npm init` in order to Create
+package.json
+
+*/
